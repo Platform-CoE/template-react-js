@@ -86,7 +86,7 @@ React는 Javascript의 코딩 컨벤션을 그대로 따라가며, html, css 부
 
 ## 시작하기
 
-1. URL 변경
+### 1. URL 변경
 
 `env` 파일에서 URL 설정 정보를 변경합니다.
 
@@ -98,7 +98,7 @@ REACT_APP_BASE_URL=http://localhost:8082/your_url
 REACT_APP_API=http://localhost:8082/your_url
 ```
 
-2. 애플리케이션 실행
+### 2. 애플리케이션 실행
 
 ```
 npm start
