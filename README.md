@@ -92,7 +92,7 @@ React는 Javascript의 코딩 컨벤션을 그대로 따라가며, html, css 부
 
 ```
 REACT_APP_PATH=/
-REAT_APP_PUBLIC_PATH=/
+REACT_APP_PUBLIC_PATH=/
 REACT_APP_BASE_URL=http://localhost:8082/your_url
 
 REACT_APP_API=http://localhost:8082/your_url
