@@ -25,6 +25,7 @@ src/
 ├─ provider/       # Context Providers(Auth 등)
 ├─ routes/         # 화면 이동 정책
 ├─ utils/          # 헬퍼 함수
+├─ App.jsx         # 최상위 컴포넌트
 └─ index.js        # 진입점
 ```
 
